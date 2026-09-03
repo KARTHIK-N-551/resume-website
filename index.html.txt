@@ -15,7 +15,13 @@
     <main>
         <section>
             <h2>Professional Summary</h2>
-            <p>A motivated professional experienced in containerisation, web development, and version control workflows.</p>
+            <p>Results-driven Data Analyst  with 1 year of experience in data analysis, dashboard development, and
+business intelligence within the automotive manufacturing industry. Experienced in using Power BI, SQL,
+Python, Microsoft Excel, and Tableau to analyze data, develop interactive dashboards, and generate
+actionable business insights. Contributed to the digitalization of manufacturing operations by creating data
+driven reporting solutions that enabled real-time monitoring and informed decision-making. Strong
+analytical, problem-solving, and communication skills with a passion for transforming data into meaningful
+business outcomes.</p>
         </section>
 
         <section>
